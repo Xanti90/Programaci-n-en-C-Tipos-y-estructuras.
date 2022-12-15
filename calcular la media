@@ -22,4 +22,5 @@ int main()
     printf("Media de las últimas 5 partidas con Jax: %.2lf\n", media3);
     
     return 0;
+    
 }
